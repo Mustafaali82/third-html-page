@@ -1,3 +1,3 @@
-# third-html-page
+# index.html
 
-published link---->>https://mustafaali82.github.io/third-html-page/.
+published link  https://mustafaali82.github.io/index.html/.
